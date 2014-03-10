@@ -1,12 +1,14 @@
 # Project Title
-Insert the name of your project
+Art for everyone
 
 ## Authors
-- Insert main author name, surname, github account
+- Menno Cramer, Cramer, cramer.menno@gmail.com
 - Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+Art for everyone is an exploration of value in for poeple in physical and digital sense. To receive a piece of art is a present, it will make you happy, it will connect you with others, it is intelectual to explore, to learn, to appreciate. This is a gift, something for every human in the world. To make something like this physically would be impossible and waste full. When you see a good piece of art this will lead to physical, psychological changes. It leaves a trace within a human body. When you do this with digital art, it is free. You can spread this endlessly, enjoy it repeatedly. 
+Code is nescesary to make a unique piece fo art for all humans, (http://www.worldometers.info/) Everyone deserves a gift. 
+Technology is needed to create as well as to show and spread.
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
